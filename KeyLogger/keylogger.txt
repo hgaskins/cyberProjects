@@ -1,10 +1,16 @@
-KeyLogger
+Project Title: KeyLogger
 
-KeyLogger is a basic key logger application written in python. I am using this to brush up on python in addition to get started on cyber security projects. Musings thus far: there are SOOOO MANY key logger applications/tutorials online and it isn't very hard for someone with minimal knowledge to develop a key logger. Both cool and concerning.
+Project Description: KeyLogger is a basic key logger application written in python. I am using this to brush up on python in addition to get started on cyber security projects. Musings thus far: there are SOOOO MANY key logger applications/tutorials online and it isn't very hard for someone with minimal knowledge to develop a key logger. Both cool and concerning.
 
-This project involves the categories of Programming and Security
+Project Categories: Programming
 
-Project topology does not apply here
+Project Topology: Does not apply here
+
+Programming Concepts: Listener design pattern. 
+
+Starting Resources to assist in Project: 
+- pip : a python package manager
+- pynput : a python library that allows you to control and monitor input devices, keyboard here
 
 Date started: 11/29/23
 Date finished: TBD
